@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Donnie3004/Text-Manipulator/static/css/main.e6c13ad2.css",
-    "main.js": "/Donnie3004/Text-Manipulator/static/js/main.eb67caee.js",
-    "index.html": "/Donnie3004/Text-Manipulator/index.html",
-    "main.e6c13ad2.css.map": "/Donnie3004/Text-Manipulator/static/css/main.e6c13ad2.css.map",
-    "main.eb67caee.js.map": "/Donnie3004/Text-Manipulator/static/js/main.eb67caee.js.map"
+    "main.css": "/Donnie3004/React-Practice-Projects/static/css/main.e6c13ad2.css",
+    "main.js": "/Donnie3004/React-Practice-Projects/static/js/main.eb67caee.js",
+    "index.html": "/Donnie3004/React-Practice-Projects/index.html",
+    "main.e6c13ad2.css.map": "/Donnie3004/React-Practice-Projects/static/css/main.e6c13ad2.css.map",
+    "main.eb67caee.js.map": "/Donnie3004/React-Practice-Projects/static/js/main.eb67caee.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
